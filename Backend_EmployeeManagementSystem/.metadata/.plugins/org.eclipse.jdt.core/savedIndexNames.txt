@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\BIJPRADH\Downloads\SEP11PROJECT\Spring-Boot-ReactJS-&MySql-CRUD-Appliaction\Employee_mangement_System_App\Backend_EmployeeManagementSystem\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
